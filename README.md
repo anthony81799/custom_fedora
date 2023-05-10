@@ -1,4 +1,4 @@
-# Starting point
+# custom_fedora
 
 [![build-ublue](https://github.com/anthony81799/custom_fedora/actions/workflows/build.yml/badge.svg)](https://github.com/anthony81799/custom_fedora/actions/workflows/build.yml)
 
